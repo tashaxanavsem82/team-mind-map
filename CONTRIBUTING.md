@@ -12,4 +12,4 @@ Thank you for considering contributing to Team Mind Map! We appreciate your help
 If you find a bug or have a feature request, please report it in the Issues section of the repository before starting your work.
 
 ## Code of Conduct
-Please ensure that your contributions follow our Code of Conduct (available in the CODE_OF_CONDUCT.md file) to maintain a welcoming environment for all contributors.
+Please ensure that your contributions follow our Code of Conduct (available [here](CODE_OF_CONDUCT.md)) to maintain a welcoming environment for all contributors.
